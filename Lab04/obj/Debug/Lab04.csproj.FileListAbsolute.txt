@@ -1,0 +1,7 @@
+E:\HUFLIT Junior\Network Programming\Lab04\Lab04\bin\Debug\Lab04.exe.config
+E:\HUFLIT Junior\Network Programming\Lab04\Lab04\bin\Debug\Lab04.exe
+E:\HUFLIT Junior\Network Programming\Lab04\Lab04\bin\Debug\Lab04.pdb
+E:\HUFLIT Junior\Network Programming\Lab04\Lab04\obj\Debug\Lab04.csprojResolveAssemblyReference.cache
+E:\HUFLIT Junior\Network Programming\Lab04\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+E:\HUFLIT Junior\Network Programming\Lab04\Lab04\obj\Debug\Lab04.exe
+E:\HUFLIT Junior\Network Programming\Lab04\Lab04\obj\Debug\Lab04.pdb
